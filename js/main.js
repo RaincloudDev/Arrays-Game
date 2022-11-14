@@ -82,7 +82,7 @@ function upgradeShop(id){
     prodMod += (id*.3);
     ownedShops[id].cost += costMod;
     ownedShops[id].production += prodMod;     
-    
+    2
     return;
 }
 
